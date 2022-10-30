@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4875d5c4.css",
+    "main.js": "./static/js/main.7b829cf0.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/flor-01.png": "./static/media/flor-01.1ca5b710c02d5829afcc.png",
+    "static/media/nosotros-image.jpeg": "./static/media/nosotros-image.818f5373ecffd192d275.jpeg",
+    "static/media/flowers.webp": "./static/media/flowers.92faadd722df65d2c08e.webp",
+    "static/media/Home-Depot-logo-nosotros.webp": "./static/media/Home-Depot-logo-nosotros.fcd656d47a99468be6c4.webp",
+    "static/media/logo-waltmart.png": "./static/media/logo-waltmart.275c2580602167b28722.png",
+    "static/media/heb-logo-nosotros.webp": "./static/media/heb-logo-nosotros.cd05cf0aa9a28ad22d22.webp",
+    "static/media/soriana-logo-nosotros.webp": "./static/media/soriana-logo-nosotros.53e8b7056d09ae2ea2a8.webp",
+    "index.html": "./index.html",
+    "main.4875d5c4.css.map": "./static/css/main.4875d5c4.css.map",
+    "main.7b829cf0.js.map": "./static/js/main.7b829cf0.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4875d5c4.css",
+    "static/js/main.7b829cf0.js"
+  ]
+}
